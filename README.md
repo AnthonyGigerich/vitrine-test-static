@@ -1,0 +1,1 @@
+# vitrine-test-static
